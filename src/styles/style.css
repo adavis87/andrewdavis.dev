@@ -101,3 +101,7 @@ code {
 code {
   color: var(--accent-dark);
 }
+
+@view-transition {
+  navigation: auto;
+}
