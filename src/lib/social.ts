@@ -8,7 +8,7 @@ export const SOCIAL_LINKS: Record<SocialLinkId, SocialLink> = {
   [SocialLinkId.Email]: {
     name: "Email",
     id: SocialLinkId.Email,
-    url: "mailto:dynamicdebug@gmail.com",
+    url: "mailto:containerize.it@gmail.com",
     alt: "Send Me and Email",
     image: emailIcon,
   },
@@ -22,7 +22,7 @@ export const SOCIAL_LINKS: Record<SocialLinkId, SocialLink> = {
   [SocialLinkId.GitHub]: {
     name: "GitHub",
     id: SocialLinkId.GitHub,
-    url: "https://github.com/matchbyte",
+    url: "https://github.com/adavis87",
     alt: "View my GitHub Profile",
     image: githubIcon,
   },
